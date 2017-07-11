@@ -1,0 +1,21 @@
+body{
+  background: #cccccc;
+}
+
+.container{
+  background: #ffffff;
+}
+
+.panel-heading{
+  text-align: center;
+  font-size: 20px;
+
+}
+
+.title-painel{
+  color: #ffffff;
+}
+
+.panel-default{
+  width: 125%;
+}
